@@ -12,3 +12,5 @@ After run the program, execute the following keyboard to start to move the box/s
 `Key DOWN` to move down.<br>
 `Key RIGHT` to move right.<br>
 `Key LEFT` to move left. <br>
+`q` for Quit the game. <br>
+`c` for restart the game after game over. <br>
