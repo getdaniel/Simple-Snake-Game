@@ -1,12 +1,23 @@
-# Switch
+# Simple Snake Game
+Simple Snake Game with pgame python3 package.
 
-A landing page template.
-
-* [Getting started](#getting-started)
-
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
-
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+# Usage
+### Step 1:
+Clone like 
+```
+git clone https://github.com/ShagizMan/Simple-Snake-Game.git
+```
+### Step 2:
+Go to the cloned folder with the below command
+```
+cd Simple-Snake-Game <br>
+./snake.py
+```
+### Step 3:
+Start to play the game with the following instruction <br>
+Press :arrow_up: to go UP <br>
+Press :arrow_down: to go DOWN <br>
+Press :arrow_right: to go RIGHT <br>
+Press :arrow_left: to go LEFT <br>
+Press `p` to PAUSE the Game <br>
+Press `c` to CONTINUE the Game <br>
