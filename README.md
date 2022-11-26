@@ -22,5 +22,5 @@ Press :arrow_left: to go LEFT <br>
 Press `p` to PAUSE the Game <br>
 Press `c` to CONTINUE the Game <br>
 
-## About the Developer :man-technologist: :ethiopia:
+## About the Developer :man_technologist: :ethiopia:
 * **Daniel Shibabaw** [getdaniel](https://github.com/getdaniel/)
