@@ -1,7 +1,7 @@
 # Simple Snake Game :snake:
 Simple Snake Game with pgame python3 package.
 
-![alt text](https://github.com/getdaniel/Simple-Snake-Game/main/dist/images/snake.png?raw=true)
+![snake game interfaces](https://github.com/getdaniel/Simple-Snake-Game/blob/main/dist/images/snake.png)
 
 ## Introduction :door:
 This game is simply developed on `linux os`. I didn't deploy it with any deployment method. But it can accessed from this [GitHub](git@github.com:getdaniel/Simple-Snake-Game.git). <br>
