@@ -1,8 +1,10 @@
 # Simple Snake Game :snake:
 Simple Snake Game with pgame python3 package.
 
+![snake game interfaces](https://github.com/getdaniel/Simple-Snake-Game/blob/main/dist/images/snake.png)
+
 <p align="center">
-  ![snake game interfaces](https://github.com/getdaniel/Simple-Snake-Game/blob/main/dist/images/snake.png)
+  <img src="dist/images/snake.png" width="350" title="hover text">
 </p>
 
 ## Introduction :door:
