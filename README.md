@@ -2,7 +2,7 @@
 Simple Snake Game with pgame python3 package.
 
 <p align="center">
-  <img src="dist/images/snake.png" width="600" height="400" title="hover text">
+  <img src="dist/images/snake.png" width="800" height="500" title="hover text">
 </p>
 
 ## Introduction :door:
